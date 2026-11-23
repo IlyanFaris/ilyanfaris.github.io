@@ -69,6 +69,15 @@ nav a.current {
   color: var(--accent);
 }
 
+/* ---------- Photo ---------- */
+.photo {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 3px;
+  margin: 0 0 2.5rem;
+}
+
 /* ---------- Type ---------- */
 h1 {
   font-size: 1.95rem;
